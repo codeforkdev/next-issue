@@ -1,3 +1,4 @@
+export const revalidate = false;
 export default function Page() {
   const date = new Date();
   return (
