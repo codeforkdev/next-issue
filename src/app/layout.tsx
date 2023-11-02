@@ -22,7 +22,7 @@ export default function RootLayout({
           <Link href="/">Home</Link>
           <Link href="/results-1">results-1</Link>
           <Link href="/results-2">results-2</Link>
-          <Link href="/results-3">results-3</Link>
+          <Link href="/nested/results-3">nested/results-3</Link>
         </nav>
         {children}
       </body>
